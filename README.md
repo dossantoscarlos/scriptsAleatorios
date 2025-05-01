@@ -53,7 +53,7 @@ O programa exibe, em blocos separados, as palavras "HAPPY", "DAY", "TO" e "WORK"
 0   0   0    0
 0    0  0    0
 0   0   0    0
-0000\t  00  
+0000      00  
 
 =======================================
 
