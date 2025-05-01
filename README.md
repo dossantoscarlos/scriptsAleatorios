@@ -21,11 +21,15 @@ O programa exibe, em blocos separados, as palavras "HAPPY", "DAY", "TO" e "WORK"
    go run main.go
    ```
 
-   Ou, para compilar e executar:
-
+   Ou, para compilar e executar :
+   windows >> 
    ```sh
-   go build -o happyday
-   ./happyday
+   Scripts/build.cmd
+   ```
+   outros >>
+   ```sh
+      go build -o happy main.go
+      ./happy
    ```
 
 ## Exemplo de saída
